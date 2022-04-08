@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exe4j version="8.0.1" transformSequenceNumber="3">
+  <directoryPresets config="C:/Users/夜无倦/Desktop/Backup 2021.8.25/Pictures 2021.10.31/temp" />
+  <application name="DES" distributionSourceDir="C:/Users/夜无倦/Desktop/2022年春季学期实验/网络安全/DES原理解读与可视化工程/DES字符串、文本文档、文件夹加密解密（Java Swing ）/DES-GUI/out/artifacts" />
+  <executable name="DES" wrapperType="embed" iconSet="true" iconFile="C:/Users/夜无倦/Desktop/2022年春季学期实验/网络安全/DES原理解读与可视化工程/DES字符串、文本文档、文件夹加密解密（Java Swing ）/DES-GUI/out/artifacts/DES.ico" executableMode="gui" />
+  <splashScreen show="true" bitmapFile="C:/Users/夜无倦/Desktop/Backup 2021.8.25/Pictures 2021.10.31/temp/1620433781919.gif" />
+  <java mainClass="DESAPP.main" minVersion="1.8">
+    <classPath>
+      <archive location="C:/Users/夜无倦/Desktop/2022年春季学期实验/网络安全/DES原理解读与可视化工程/DES字符串、文本文档、文件夹加密解密（Java Swing ）/DES-GUI/out/artifacts/DES_jar/DES.jar" failOnError="false" />
+    </classPath>
+  </java>
+</exe4j>
